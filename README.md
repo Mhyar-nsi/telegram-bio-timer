@@ -11,11 +11,6 @@
 
 # 🛠 Install Guid
 ```
-pip3 install -U pyrogram
+pip install -r requirements.txt & python main.py
 ```
-```
-pip3 install -U pyrogram tgcrypto
-```
-```
-pip install schedule
-```
+
